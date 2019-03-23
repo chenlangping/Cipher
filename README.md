@@ -3,7 +3,7 @@
 ### 东北大学大三上学期密码编程作业
 使用的时候需要注意
 - 编码用的是`GBK`而不是`UTF-8`
-- Android端暂时还没整理好，稍后放上来
+- Android端请移步 https://github.com/chenlangping/CipherforAndroid
 - 需要依赖第三方的jar包`substance.jar`，在`src/libs`下有
 
 ### 包含的加解密方法
